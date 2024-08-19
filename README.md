@@ -46,6 +46,9 @@
   <a href="https://github.com/mateuscardososs/analise-de-acoes/tree/main">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=analise-de-acoes&theme=gruvbox"/>
   </a>
+  <a href="https://github.com/mateuscardososs/formulario-personalisado">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=formulario-personalisado&theme=gruvbox"/>
+  </a>
   <a href="https://github.com/mateuscardososs/ProjetoJogos">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=ProjetoJogos&theme=gruvbox"/>
   </a>
