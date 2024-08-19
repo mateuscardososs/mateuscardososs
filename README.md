@@ -43,6 +43,9 @@
   <a href="https://github.com/mateuscardososs/hamburgueria--full-stack">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=hamburgueria--full-stack&theme=gruvbox"/>
   </a>
+  <a href="https://github.com/mateuscardososs/analise-de-acoes/tree/main">
+    <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=analise-de-acoes&theme=gruvbox"/>
+  </a>
   <a href="https://github.com/mateuscardososs/ProjetoJogos">
     <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=ProjetoJogos&theme=gruvbox"/>
   </a>
