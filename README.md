@@ -48,21 +48,33 @@
 ## 📈 Estatísticas e Conquistas
 
 <div align="center">
-  <!-- Gráficos mais estáveis -->
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=gruvbox&count_private=true&hide=issues"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&theme=gruvbox"/>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/mateuscardososs">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=gruvbox&count_private=true&hide=issues"/>
+  </a>
+  <a href="https://github.com/mateuscardososs">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&langs_count=8&theme=gruvbox"/>
+  </a>
+
+  <!-- Stats resumo -->
+  <p align="center">
+    🔥 <strong>233+ contribuições</strong> desde 2022 •  
+    💡 <strong>Streak atual:</strong> 5 dias •  
+    🚀 <strong>Recorde:</strong> 6 dias seguidos
+  </p>
+
+  <!-- Trophies (pode comentar se travar) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mateuscardososs&theme=gruvbox&title=Stars,Commit,Repositories&column=3&margin-w=15&margin-h=15"/>
+  </a>
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscardososs&theme=gruvbox"/>
+  </a>
+
 </div>
-
-<br>
-<p align="center">
-  🔥 <strong>233+ contribuições</strong> no GitHub desde 2022<br>
-  💡 <strong>Streak atual:</strong> 5 dias consecutivos<br>
-  🚀 <strong>Streak recorde:</strong> 6 dias seguidos
-</p>
-
-[![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mateuscardososs&title=Stars,Commit,Repositories&column=3&margin-w=83&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
-[![📅 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateuscardososs&theme=gruvbox)](https://git.io/streak-stats)
-
 ---
 
 ## 📬 Conecte-se Comigo
