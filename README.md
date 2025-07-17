@@ -43,12 +43,22 @@
 
 ---
 
-## 📊 Estatísticas & Conquistas
+---
+
+## 📈 Estatísticas e Conquistas
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=dark&include_all_commits=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&langs_count=10&theme=dark"/>
+  <!-- Gráficos mais estáveis -->
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=gruvbox&count_private=true&hide=issues"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&theme=gruvbox"/>
 </div>
+
+<br>
+<p align="center">
+  🔥 <strong>233+ contribuições</strong> no GitHub desde 2022<br>
+  💡 <strong>Streak atual:</strong> 5 dias consecutivos<br>
+  🚀 <strong>Streak recorde:</strong> 6 dias seguidos
+</p>
 
 [![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mateuscardososs&title=Stars,Commit,Repositories&column=3&margin-w=83&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 [![📅 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateuscardososs&theme=gruvbox)](https://git.io/streak-stats)
