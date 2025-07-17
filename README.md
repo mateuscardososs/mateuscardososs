@@ -1,89 +1,65 @@
-<h1 align="center">Olá, eu sou o Mateus Cardoso 👋</h1>
-
+<h1 align="center">👋 Olá, eu sou Mateus Cardoso</h1>
 <p align="center">
-  Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação 
+  Estudante de Ciência da Computação | Desenvolvedor Full Stack em formação
 </p>
 
 ---
 
 ## 🚀 Sobre Mim
-
-- 🎓 Estudante de Ciência da Computação
-- 💼 Atualmente atuando com desenvolvimento **Back-end**, mas com forte interesse em **automação com IA** e **Front-end**
-- 📚 Estudando Python voltado para automação de tarefas e análise de dados
-- 💡 Focado em desenvolver soluções práticas que otimizem o dia a dia de pessoas e empresas
-- 🌐 Portfólio: [Clique aqui](https://portifolioo-opal.vercel.app/)
+- Estudante de Ciência da Computação com foco em desenvolvimento full‑stack.
+- Experiência sólida em **Python** para automação e análise de dados.
+- Vivência com **Back-end** em **Java** (Spring Boot) e bancos relacionais como **PostgreSQL** e **MySQL**.
+- Interessa-se por práticas de DevOps, testes automatizados e design de APIs RESTful.
 
 ---
 
-## 🧰 Tecnologias & Ferramentas
+## 🧰 Tecnologias e Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mateus-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Mateus-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Mateus-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Mateus-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Mateus-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Mateus-JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Mateus-Node" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Mateus-PostgreSQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Mateus-MySQL" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mateus-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Mateus-Linux" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
 </div>
 
 ---
 
-## 🛠️ Projetos em Destaque
+## 📁 Projetos em Destaque
 
-<div>
-  <p>
-    <a href="https://github.com/mateuscardososs/Email-em-massa-com-Excel">
-      <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=Email-em-massa-com-Excel&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/mateuscardososs/hamburgueria--full-stack">
-      <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=hamburgueria--full-stack&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/mateuscardososs/analise-de-acoes">
-      <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=analise-de-acoes&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/mateuscardososs/formulario-personalisado">
-      <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=formulario-personalisado&theme=gruvbox"/>
-    </a>
-    <a href="https://github.com/mateuscardososs/ProjetoJogos">
-      <img height="125em" src="https://github-readme-stats.vercel.app/api/pin/?username=mateuscardososs&repo=ProjetoJogos&theme=gruvbox"/>
-    </a>
-  </p>  
-</div>
+| Projeto | Tecnologias | Descrição |
+|--------|-------------|-----------|
+| [**Hamburgueria Full‑Stack**](https://github.com/mateuscardososs/hamburgueria--full-stack) | React, Node.js, PostgreSQL | App completo de restaurante com cadastro de produtos, pedidos e painel administrativo. |
+| [**E-mail em Massa com Excel**](https://github.com/mateuscardososs/Email-em-massa-com-Excel) | Python, SMTP | Automação para envios de campanhas via e-mail integradas ao Excel. |
+| [**Análise de Ações**](https://github.com/mateuscardososs/analise-de-acoes) | Python, Pandas, Matplotlib | Ferramenta para análise gráfica de histórico de preços e indicadores financeiros. |
+| [**Formulário Personalizado**](https://github.com/mateuscardososs/formulario-personalisado) | HTML, CSS, JS | Formulário estilizado com validações customizadas e boa UX. |
+| [**ProjetoJogos**](https://github.com/mateuscardososs/ProjetoJogos) | JavaScript | Mini-jogos interativos para web, com lógica e design frontend. |
 
 ---
 
-## 📈 GitHub Stats
+## 📊 Estatísticas & Conquistas
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&langs_count=16&theme=dark"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateuscardososs&show_icons=true&theme=dark&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscardososs&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateuscardososs&theme=gruvbox)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mateuscardososs&title=Stars,Commit,Repositories&column=3&margin-w=83&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![🏆 GitHub Trophy](https://github-profile-trophy.vercel.app/?username=mateuscardososs&title=Stars,Commit,Repositories&column=3&margin-w=83&margin-h=15&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
+[![📅 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateuscardososs&theme=gruvbox)](https://git.io/streak-stats)
 
 ---
 
-## 📞 Contato
+## 📬 Conecte-se Comigo
 
-<div>
-  <a href="https://instagram.com/mateus.cardososs" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:mateus7.cardosos@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-cardoso-294a86238" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://wa.me/5581998109812" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-  </a>
+<div align="center">
+  <a href="https://linkedin.com/in/mateus-cardoso-294a86238"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/mateus.cardososs"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:mateus7.cardosos@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/5581998109812"><img src="https://img.shields.io/badge/-WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </div>
