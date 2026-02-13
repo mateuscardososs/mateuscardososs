@@ -5,63 +5,39 @@ Backend & Systems Engineer
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-Backend Engineer specialized in building scalable APIs, event-driven services, and data-driven systems.
+Backend Engineer focused on scalable APIs, event-driven systems, and data-driven architectures.
 
-I design and implement modular backend architectures using Java (Spring Boot) and Python (FastAPI), integrating business intelligence platforms, messaging infrastructure, and AI-powered services.
+Currently building backend services using **Java (Spring Boot)** and **Python (FastAPI)**, integrating business intelligence platforms, messaging infrastructure, and AI-powered workflows.
 
-Strong focus on relational database modeling, automation pipelines, and enterprise integrations.
+Strong background in relational database modeling, modular architecture, and automation pipelines.
 
 ---
 
-## 🛠 Core Expertise
+## 🛠 Tech Stack
 
-- REST API Design
-- Layered & Modular Architecture
-- Event-Driven Systems
-- Relational Database Modeling
-- Automation Pipelines
-- BI & Monitoring Integrations
-- AI-Powered Workflows
+- **Backend:** Java (Spring Boot), Python (FastAPI)
+- **Database:** PostgreSQL, MySQL
+- **Data:** Pandas, Matplotlib
+- **DevOps:** Docker, Git
+- **Architecture:** REST APIs, Event-Driven Systems, Layered Architecture
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 Qlik Monitoring Service  
-Event-driven backend service for monitoring Qlik applications.
-
-- Structured diff detection
-- SHA256 integrity monitoring
-- AI-powered summarization (Gemini)
-- Automated notifications via WhatsApp & Email
-- FastAPI + SQLAlchemy + Docker
+### Qlik Monitoring Service  
+Event-driven BI monitoring service with AI-powered summarization and automated messaging workflows.
 
 🔗 [View Repository](https://github.com/mateuscardososs/qlik-monitoring-service)
 
 ---
 
-### 🔹 Enterprise Management API  
-Spring Boot-based enterprise backend system.
-
-- Layered architecture (Controller → Service → Repository)
-- PostgreSQL relational modeling
-- Transactional business operations
-- Inventory and contract management
-- Docker-ready deployment
+### Enterprise Management API  
+Spring Boot-based enterprise backend system demonstrating layered architecture and relational database modeling.
 
 🔗 [View Repository](https://github.com/mateuscardososs/Sistema-Gestao-BancoDados)
-
----
-
-## 🧱 Tech Stack
-
-**Backend:** Java (Spring Boot), Python (FastAPI)  
-**Database:** PostgreSQL, MySQL  
-**Data:** Pandas, Matplotlib  
-**DevOps:** Docker, Git  
-**Architecture:** REST APIs, Event-Driven Systems, Clean Architecture  
 
 ---
 
