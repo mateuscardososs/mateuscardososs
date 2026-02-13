@@ -5,13 +5,13 @@ Backend & Systems Engineer
 
 ---
 
-## 🚀 About Me
+## About Me
 
-Backend Engineer focused on scalable APIs, event-driven systems, and data-driven architectures.
+Backend Engineer specialized in building scalable APIs, event-driven services, and data-driven systems.
 
-Currently building backend services using **Java (Spring Boot)** and **Python (FastAPI)**, integrating business intelligence platforms, messaging infrastructure, and AI-powered workflows.
+I design and implement modular backend architectures using Java (Spring Boot) and Python (FastAPI), integrating business intelligence platforms, messaging infrastructure, and AI-powered services.
 
-Strong background in relational database modeling, modular architecture, and automation pipelines.
+Strong background in API development, relational database modeling, system architecture, and automation pipelines.
 
 ---
 
@@ -19,23 +19,50 @@ Strong background in relational database modeling, modular architecture, and aut
 
 - **Backend:** Java (Spring Boot), Python (FastAPI)
 - **Database:** PostgreSQL, MySQL
-- **Data:** Pandas, Matplotlib
+- **Frontend:** React, JavaScript
 - **DevOps:** Docker, Git
-- **Architecture:** REST APIs, Event-Driven Systems, Layered Architecture
+- **Data & BI:** Qlik Sense, Power BI
+- **Architecture:** REST APIs, Event-Driven Systems, Clean Architecture, Data Modeling
+
+---
+
+## ⚒ Core Expertise
+
+- REST API Design
+- Layered & Modular Architecture
+- Event-Driven Systems
+- Relational Database Modeling
+- Automation Pipelines
+- BI & Monitoring Integrations
+- AI-Powered Workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### Qlik Monitoring Service  
-Event-driven BI monitoring service with AI-powered summarization and automated messaging workflows.
+### 🔹 Qlik Monitoring Service
+
+Event-driven backend service for monitoring Qlik applications.
+
+- Structured diff detection  
+- SHA256 integrity monitoring  
+- AI-powered summarization (Gemini)  
+- Automated notifications via WhatsApp & Email  
+- FastAPI + SQLAlchemy + Docker  
 
 🔗 [View Repository](https://github.com/mateuscardososs/qlik-monitoring-service)
 
 ---
 
-### Enterprise Management API  
-Spring Boot-based enterprise backend system demonstrating layered architecture and relational database modeling.
+### 🔹 Enterprise Management API
+
+Spring Boot-based enterprise backend system.
+
+- Layered architecture (Controller → Service → Repository)  
+- PostgreSQL relational modeling  
+- Transactional business operations  
+- Inventory and contract management  
+- Docker-ready deployment  
 
 🔗 [View Repository](https://github.com/mateuscardososs/Sistema-Gestao-BancoDados)
 
