@@ -70,5 +70,5 @@ Spring Boot-based enterprise backend system.
 
 ## 🌎 Contact
 
-LinkedIn: https://linkedin.com/in/mateus-cardoso  
+LinkedIn: https://linkedin.com/in/mateus-cardosos
 Email: mateus7.cardoso@hotmail.com
