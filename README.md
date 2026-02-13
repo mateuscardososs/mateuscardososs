@@ -1,47 +1,71 @@
 <h1 align="center">Mateus Cardoso</h1>
 <p align="center">
-Backend & Data-Driven Systems Engineer
+Backend & Systems Engineer
 </p>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-Software Engineer focused on backend and data-driven systems.
+Backend Engineer specialized in building scalable APIs, event-driven services, and data-driven systems.
 
-Currently working with Java (Spring Boot), Python (Flask), PostgreSQL, and Business Intelligence solutions in a federal strategic management environment.
+I design and implement modular backend architectures using Java (Spring Boot) and Python (FastAPI), integrating business intelligence platforms, messaging infrastructure, and AI-powered services.
 
-Strong background in API development, relational database modeling, system architecture, and performance optimization.
-
----
-
-## Tech Stack
-
-- **Backend:** Java (Spring Boot), Python (Flask)
-- **Database:** PostgreSQL, MySQL
-- **Frontend:** React, JavaScript
-- **DevOps:** Docker, Git
-- **Data & BI:** Qlik Sense, Power BI
-- **Architecture:** REST APIs, Clean Architecture, Data Modeling
+Strong focus on relational database modeling, automation pipelines, and enterprise integrations.
 
 ---
 
-## Featured Projects
+## 🛠 Core Expertise
 
-### Enterprise Management System
-Spring Boot + PostgreSQL  
-Complete management system with REST APIs, authentication, relational modeling, and business rules validation.
-
-### Automation & Data Processing Tools
-Python-based automation scripts for data extraction, email processing, and reporting.
-
-### Financial Data Analysis
-Python + Pandas + Matplotlib  
-Historical stock data analysis and visualization.
+- REST API Design
+- Layered & Modular Architecture
+- Event-Driven Systems
+- Relational Database Modeling
+- Automation Pipelines
+- BI & Monitoring Integrations
+- AI-Powered Workflows
 
 ---
 
-## Contact
+## 🚀 Featured Projects
 
-LinkedIn: linkedin.com/in/mateus-cardoso  
+### 🔹 Qlik Monitoring Service  
+Event-driven backend service for monitoring Qlik applications.
+
+- Structured diff detection
+- SHA256 integrity monitoring
+- AI-powered summarization (Gemini)
+- Automated notifications via WhatsApp & Email
+- FastAPI + SQLAlchemy + Docker
+
+🔗 [View Repository](https://github.com/mateuscardososs/qlik-monitoring-service)
+
+---
+
+### 🔹 Enterprise Management API  
+Spring Boot-based enterprise backend system.
+
+- Layered architecture (Controller → Service → Repository)
+- PostgreSQL relational modeling
+- Transactional business operations
+- Inventory and contract management
+- Docker-ready deployment
+
+🔗 [View Repository](https://github.com/mateuscardososs/Sistema-Gestao-BancoDados)
+
+---
+
+## 🧱 Tech Stack
+
+**Backend:** Java (Spring Boot), Python (FastAPI)  
+**Database:** PostgreSQL, MySQL  
+**Data:** Pandas, Matplotlib  
+**DevOps:** Docker, Git  
+**Architecture:** REST APIs, Event-Driven Systems, Clean Architecture  
+
+---
+
+## 🌎 Contact
+
+LinkedIn: https://linkedin.com/in/mateus-cardoso  
 Email: mateus7.cardoso@hotmail.com
