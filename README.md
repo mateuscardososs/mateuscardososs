@@ -1,32 +1,32 @@
 <h1 align="center">Mateus Cardoso</h1>
 <p align="center">
-Backend & Systems Engineer
+Backend Engineer | Java (Spring Boot) | Python (FastAPI) | APIs | Integrations | Data-Driven Systems
 </p>
 
 ---
 
 ## About Me
 
-Backend Engineer specialized in building scalable APIs, event-driven services, and data-driven systems.
+Backend Engineer focused on building scalable APIs, integration services, and data-driven systems.
 
-I design and implement modular backend architectures using Java (Spring Boot) and Python (FastAPI), integrating business intelligence platforms, messaging infrastructure, and AI-powered services.
+I work mainly with Java (Spring Boot) and Python (FastAPI), designing modular architectures, relational database models, automation pipelines, and backend solutions connected to BI platforms and AI-powered workflows.
 
-Strong background in API development, relational database modeling, system architecture, and automation pipelines.
+My main interests are backend engineering, system integration, software architecture, and business-oriented solutions.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Backend:** Java (Spring Boot), Python (FastAPI)
 - **Database:** PostgreSQL, MySQL
 - **Frontend:** React, JavaScript
 - **DevOps:** Docker, Git
 - **Data & BI:** Qlik Sense, Power BI
-- **Architecture:** REST APIs, Event-Driven Systems, Clean Architecture, Data Modeling
+- **Architecture:** REST APIs, Event-Driven Systems, Layered Architecture, Data Modeling
 
 ---
 
-## ⚒ Core Expertise
+## Core Expertise
 
 - REST API Design
 - Layered & Modular Architecture
@@ -38,37 +38,48 @@ Strong background in API development, relational database modeling, system archi
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔹 Qlik Monitoring Service
+### TranscribeIA
+AI-powered platform for automatic meeting transcription, speaker diarization, vote analysis, and formal document generation.
 
+- Audio/video transcription
+- Speaker identification
+- Automatic meeting minutes generation
+- Vote counting workflow
+- FastAPI + PostgreSQL + AI services
+
+🔗 [View Repository](https://github.com/mateuscardososs/TranscribeIA)
+
+---
+
+### Qlik Monitoring Service
 Event-driven backend service for monitoring Qlik applications.
 
-- Structured diff detection  
-- SHA256 integrity monitoring  
-- AI-powered summarization (Gemini)  
-- Automated notifications via WhatsApp & Email  
-- FastAPI + SQLAlchemy + Docker  
+- Structured diff detection
+- SHA256 integrity monitoring
+- AI-powered summarization
+- Automated notifications via WhatsApp & Email
+- FastAPI + SQLAlchemy + Docker
 
 🔗 [View Repository](https://github.com/mateuscardososs/qlik-monitoring-service)
 
 ---
 
-### 🔹 Enterprise Management API
-
+### Enterprise Management API
 Spring Boot-based enterprise backend system.
 
-- Layered architecture (Controller → Service → Repository)  
-- PostgreSQL relational modeling  
-- Transactional business operations  
-- Inventory and contract management  
-- Docker-ready deployment  
+- Layered architecture
+- PostgreSQL relational modeling
+- Transactional business operations
+- Inventory and contract management
+- Docker-ready deployment
 
-🔗 [View Repository](https://github.com/mateuscardososs/Sistema-Gestao-BancoDados)
+🔗 [View Repository](https://github.com/mateuscardososs/enterprise-management-api)
 
 ---
 
-## 🌎 Contact
+## Contact
 
-LinkedIn: https://linkedin.com/in/mateus-cardosos
-Email: mateus7.cardoso@hotmail.com
+- LinkedIn: https://linkedin.com/in/mateus-cardosos
+- Email: mateus7.cardoso@hotmail.com
